@@ -1,5 +1,6 @@
 {
-  "name": "Yelpsort",
+  "name": "Yelp sort reviews by date",
+  "short_name": "YelpdDateSort",
   "description": "This extension sorts Yelp reviews by date (newest first)",
   "version": "1.0",
   "manifest_version": 2,
